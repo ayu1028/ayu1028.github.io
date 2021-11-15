@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ブログ開設！
+author: Ayumi
 ---
 
 ブログ開設しました！  

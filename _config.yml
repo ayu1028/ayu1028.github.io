@@ -7,6 +7,11 @@ description: > # this means to ignore newlines until "show_excerpts:"
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
+google_analytics: G-21N9RSPDBT
+
+disqus:
+  shortname: https-ayu1028-github-io
+
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:

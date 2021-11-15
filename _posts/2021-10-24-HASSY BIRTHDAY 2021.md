@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 大橋彩香バースデーイベント〜はっしーバースデー2021〜　昼の部に参戦！
+author: Ayumi
+comments: true
 ---
 <img src="/assets/img/hassy_birthday/hassy_birthday.jpg" style="width: 100%; height: 300px; object-fit: cover">  
 
