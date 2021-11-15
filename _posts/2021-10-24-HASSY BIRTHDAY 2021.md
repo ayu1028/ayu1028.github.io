@@ -1,5 +1,6 @@
 ---
 layout: post
+title: 大橋彩香バースデーイベント〜はっしーバースデー2021〜　昼の部に参戦！
 ---
 <img src="/assets/img/hassy_birthday/hassy_birthday.jpg" style="width: 100%; height: 300px; object-fit: cover">  
 
