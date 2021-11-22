@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 大橋彩香バースデーイベント〜はっしーバースデー2021〜　昼の部に参戦！
+title: 大橋彩香バースデーイベント〜はっしーバースデー2021〜　昼の部！
 author: Ayumi
 comments: true
 ---
