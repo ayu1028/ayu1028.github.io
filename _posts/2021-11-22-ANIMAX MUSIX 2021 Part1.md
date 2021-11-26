@@ -75,10 +75,14 @@ ANIMAX MUSIX 2021 Part1 を配信で参戦しました！
 
 <!-- 大橋彩香ライブ映像 -->
 ◯NOISY LOVE POWER☆ at 幕張メッセイベントホール
+<div class="youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pi_uTWASOzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
   
 ◯HOWL at 幕張メッセイベントホール
+<div class="youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J1xxGpNy5OM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 あと、PENGUIN RESEARCHとコラボで「JOINT」歌ってましたね〜。  
 知らない曲だったけど、PENGUIN RESEARCHのボーカルにも張り合う感じで、「他アーティストとのコラボも良いな・・・」と思いました。  
@@ -108,7 +112,7 @@ ANIMAX MUSIX 2021 Part1 を配信で参戦しました！
 来年もやるだろうし、そろそろ現地ライブに行きたいですね〜。欲を言えば、そろそろ声出しOKのライブに行きたいなぁ・・・  
 こういうライブに一緒に参加してくれる方、随時募集中です〜。 
 
-ちなみに、ANIMAX MUSIX 2021は見逃し配信がdTVで11/27〜12/4で予定されているので、興味を持った方はぜひ！→ [ANIMAX MUSIX 2021 Part1 配信ページ](https://video.dmkt-sp.jp/ft/s0007246)  
+ちなみに、ANIMAX MUSIX 2021は見逃し配信がdTVで11/27〜12/4で予定されているので、興味を持った方はぜひ！→ [ANIMAX MUSIX 2021 Part1 配信ページ](https://video.dmkt-sp.jp/ft/s0007246){:target="_blank"}  
 
 一人でも多くの方が大橋彩香<span style="font-size:5px">(や他の出演アーティスト)</span>に興味を持ってもらえると嬉しいですね。  
 あ〜、Any Beat!に感想投稿しなきゃな〜。

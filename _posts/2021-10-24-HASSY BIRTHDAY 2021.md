@@ -54,6 +54,6 @@ comments: true
 はっしーの27歳の抱負を忘れないよう胸に刻みつつ、感想を締めくくりたいと思います。  
 アーカイブ配信しているので、興味がある方はぜひチェックしてみてはいかがでしょうか？(夜の部もあるよ！)
 
-[https://ticket.rakuten.co.jp/music/rtbcosc/](https://ticket.rakuten.co.jp/music/rtbcosc/)
+[https://ticket.rakuten.co.jp/music/rtbcosc/](https://ticket.rakuten.co.jp/music/rtbcosc/){:target="_blank"}
 
 以〜上っ！
