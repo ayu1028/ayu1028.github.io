@@ -2,7 +2,7 @@
 layout: post
 title: 大橋彩香ワンマンライブ2021 ~Our WINGS~ ブルーレイを観ました！
 author: Ayumi
-comments: true
+comments: false
 ---
 <!-- トップ画像挿入する場合は以下のタグを使用する -->
 <img src="/assets/img/our_wings/PXL_20211123_113108356.jpg" style="width: 100%; height: 300px; object-fit: cover">  

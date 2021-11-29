@@ -2,7 +2,7 @@
 layout: post
 title: ANIMAX MUSIX 2021 Part1(配信)！
 author: Ayumi
-comments: true
+comments: false
 ---
 <!-- トップ画像挿入する場合は以下のタグを使用する -->
 <img src="/assets/img/animax/PXL_20211120_012705195~2.jpg" style="width: 100%; height: 300px; object-fit: cover">  
