@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  <ul>
+    {% for category in site.categories %}
+    <li>
+      <a href="#{{ category[0] }}">{{ category[0] }}({{ category[1].size }})</a>
+    </li>
+    {% endfor %}
+  </ul>
+
+  {% for category in site.categories %}
+  <h3 id="{{ category[0] }}">{{ category[0] }}</h3>
+    <ul class="category-list">
+      {% for post in category[1] %}
+      <li>
+          <a href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+      </li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+</div>

@@ -1,11 +1,15 @@
 ---
 layout: post
-title: 大橋彩香バースデーイベント〜はっしーバースデー2021〜　昼の部！
+title: "大橋彩香バースデーイベント〜はっしーバースデー2021〜　昼の部！"
 author: Ayumi
 comments: false
+excerpt_separator: <!-- more -->
+img_src: "/hassy_birthday/hassy_birthday.jpg"
+categories: "感想"
+tags:
+ - "はっしーバースデー"
+ - "大橋彩香"
 ---
-<img src="/assets/img/hassy_birthday/hassy_birthday.jpg" style="width: 100%; height: 300px; object-fit: cover">  
-
 時間が空いてしまいましたが、10月24日(日)に行われた、「大橋彩香バースデーイベント〜はっしーバースデー2021〜」の昼の部に現地参戦してきたので、その感想を書きたいと思います。
 
 感想に入る前に少しだけ自己紹介(箇条書き)を…

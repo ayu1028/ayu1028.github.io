@@ -3,14 +3,17 @@ layout: post
 title: ANIMAX MUSIX 2021 Part1(配信)！
 author: Ayumi
 comments: false
+category: "感想"
+tags: 
+ - "ANIMAX MUSIX"
+ - "大橋彩香"
+excerpt_separator: <!-- more -->
+img_src: "/animax/PXL_20211120_012705195~2.jpg"
 ---
-<!-- トップ画像挿入する場合は以下のタグを使用する -->
-<img src="/assets/img/animax/PXL_20211120_012705195~2.jpg" style="width: 100%; height: 300px; object-fit: cover">  
-
 <!-- ブログ本文 -->
 ANIMAX MUSIX 2021 Part1 を配信で参戦しました！  
 大橋彩香目当てでしたが、全編を通してとても楽しかったので、その感想を書きたいと思います。
-
+<!-- more -->
 #### ◯目次
 - [セットリスト](#anchor1)
 - [大橋彩香](#anchor2)

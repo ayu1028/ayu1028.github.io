@@ -1,16 +1,19 @@
 ---
 layout: post
-title: 大橋彩香ワンマンライブ2021 ~Our WINGS~ ブルーレイを観ました！
+title: "大橋彩香ワンマンライブ2021 ~Our WINGS~ ブルーレイを観ました！"
 author: Ayumi
 comments: false
+img_src: "/our_wings/PXL_20211123_113108356.jpg"
+excerpt_separator: <!-- more -->
+category: "感想"
+tags:
+ - "大橋彩香"
+ - "大橋彩香WINGS"
 ---
-<!-- トップ画像挿入する場合は以下のタグを使用する -->
-<img src="/assets/img/our_wings/PXL_20211123_113108356.jpg" style="width: 100%; height: 300px; object-fit: cover">  
-
 <!-- ブログ本文 -->
 2021年11月24日(水)に大橋彩香ワンマンライブ2021 ~Our WINGS~ のブルーレイが発売されましたね！
 早速観ましたが、最高のライブ映像だったので、その感想を書きたいと思います。
-
+<!-- more -->
 ### ダイジェスト映像
 まずはじめに、Youtubeに今回のライブのダイジェスト映像がアップロードされているので、気になる方はぜひチェックしていただければと思います。  
 自分自身はこのライブの様子を見るのはこのダイジェスト映像が初めてでした。  
