@@ -5,7 +5,7 @@ author:
 description: > # this means to ignore newlines until "show_excerpts:"
   日々のいろいろ、イベント参戦の感想などゆるく書き残すブログです。
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 permalink: /:year/:month/:day/:title:output_ext
 
