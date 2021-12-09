@@ -11,25 +11,6 @@
   position: relative;
 }
 
-.excerpts_box {
-  border-bottom: solid 2px #dadada;
-}
-
-.excerpts {
-  font-size: 13px;
-  color: #616161;
-}
-
-.youtube {
-  width: 100%;
-  aspect-ratio: 16 / 9;
-}
-
-.youtube iframe {
-  width: 100%;
-  height: 100%;
-}
-
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;
