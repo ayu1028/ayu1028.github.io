@@ -2,6 +2,7 @@
 layout: post
 title: "朗読劇『「三国志」〜誓いの調べ〜』(昼の部・配信)！"
 author: Ayumi
+modified_date: 
 comments: false
 img_src: "/sangokushi/sangokushi.png"
 excerpt_separator: <!-- more -->

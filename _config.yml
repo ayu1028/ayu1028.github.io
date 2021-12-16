@@ -9,6 +9,13 @@ show_excerpts: true # set to true to show excerpts on the homepage
 
 permalink: /:year/:month/:day/:title:output_ext
 
+defaults:
+  -
+    scope:
+      path: 'assets/**'
+    values:
+      sitemap: false
+
 google_analytics: G-21N9RSPDBT
 
 disqus:
@@ -63,4 +70,4 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
- - jekyll-sitemap
+# - jekyll-sitemap
