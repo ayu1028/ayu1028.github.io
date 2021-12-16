@@ -15,10 +15,12 @@
     </url>
   {% endfor %}
   {% for page in site.pages %}
+  {% if page.layout != null %}
   {% if page.sitemap != false %}
   <url>
     <loc>{{ site.url }}{{ page.url }}</loc>
   </url>
+  {% endif %}
   {% endif %}
   {% endfor %}
 </urlset>
