@@ -19,6 +19,9 @@
   {% if page.sitemap != false %}
   <url>
     <loc>{{ site.url }}{{ page.url }}</loc>
+    {% if page.modified_date != null %}
+      <lastmod>{{ page.modified_date | date_to_xmlschema }}</lastmod>
+    {% endif %}
   </url>
   {% endif %}
   {% endif %}
