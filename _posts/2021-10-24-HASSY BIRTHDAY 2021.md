@@ -5,7 +5,7 @@ author: Ayumi
 comments: false
 excerpt_separator: <!-- more -->
 img_src: "/hassy_birthday/hassy_birthday.jpg"
-categories: "感想"
+category: "感想"
 tags:
  - "はっしーバースデー"
  - "大橋彩香"
