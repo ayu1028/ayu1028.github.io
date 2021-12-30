@@ -18,9 +18,9 @@ tags:
 まずはじめに、Youtubeに今回のライブのダイジェスト映像がアップロードされているので、気になる方はぜひチェックしていただければと思います。  
 自分自身はこのライブの様子を見るのはこのダイジェスト映像が初めてでした。  
 それまでは、このライブはどんな感じだったんだろうと他の人の感想を読み漁っていました笑
-- [その1　大橋彩香ワンマンライブ2021～Our WINGS～ セットリストと感想](https://note.com/master_mn/n/nfa6ab20a442a){:target="_blank"}
-- [その2　大橋彩香ワンマンライブ2021～Our WINGS～ 感想雑多書き](https://note.com/kencho__/n/n54e26f0de54b){:target="_blank"}
-- [その3　大橋彩香ワンマンライブ2021～Our WINGS～　感想](https://note.com/lanster/n/n7bdca58eebbc){:target="_blank"}
+- [その1　大橋彩香ワンマンライブ2021～Our WINGS～ セットリストと感想](https://note.com/master_mn/n/nfa6ab20a442a){:target="_blank"}{:rel="noopener noreferrer"}
+- [その2　大橋彩香ワンマンライブ2021～Our WINGS～ 感想雑多書き](https://note.com/kencho__/n/n54e26f0de54b){:target="_blank"}{:rel="noopener noreferrer"}
+- [その3　大橋彩香ワンマンライブ2021～Our WINGS～　感想](https://note.com/lanster/n/n7bdca58eebbc){:target="_blank"}{:rel="noopener noreferrer"}
 
 <div class="youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t4N8AYRbMIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

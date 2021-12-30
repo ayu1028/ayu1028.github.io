@@ -115,7 +115,7 @@ ANIMAX MUSIX 2021 Part1 を配信で参戦しました！
 来年もやるだろうし、そろそろ現地ライブに行きたいですね〜。欲を言えば、そろそろ声出しOKのライブに行きたいなぁ・・・  
 こういうライブに一緒に参加してくれる方、随時募集中です〜。 
 
-ちなみに、ANIMAX MUSIX 2021は見逃し配信がdTVで11/27〜12/4で予定されているので、興味を持った方はぜひ！→ [ANIMAX MUSIX 2021 Part1 配信ページ](https://video.dmkt-sp.jp/ft/s0007246){:target="_blank"}  
+ちなみに、ANIMAX MUSIX 2021は見逃し配信がdTVで11/27〜12/4で予定されているので、興味を持った方はぜひ！→ [ANIMAX MUSIX 2021 Part1 配信ページ](https://video.dmkt-sp.jp/ft/s0007246){:target="_blank"}{:rel="noopener noreferrer"}  
 
 一人でも多くの方が大橋彩香<span style="font-size:5px">(や他の出演アーティスト)</span>に興味を持ってもらえると嬉しいですね。  
 あ〜、Any Beat!に感想投稿しなきゃな〜。

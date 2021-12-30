@@ -58,7 +58,7 @@ tags:
 例のごとくこの朗読劇の配信は12/12(日)までアーカイブ配信されているので、興味がある方はぜひ観劇ただけたらと思います。  
 気に入った名言をアーカイブ配信のリンクにして、感想を終わりにしたいと思います。  
 
-[「志だけが、行く道を照らす!」](https://t.pia.jp/pia/ticketInformation.do?eventCd=2130792&rlsCd=001)  
+[「志だけが、行く道を照らす!」](https://t.pia.jp/pia/ticketInformation.do?eventCd=2130792&rlsCd=001){:target="_blank"}{:rel="noopener noreferrer"}  
 
 以〜上っ！
 
