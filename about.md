@@ -14,7 +14,7 @@ Ayumiです。イベント参戦関係のブログを書いてます。
 - [大橋彩香ファンクラブ BIG BRIDGE FAMILY](https://ohashiayaka.com/){:target="_blank"}{:rel="noopener noreferrer"} 会員('21.9.19入会 会員番号6000番台)
 
 
-- [ZUTOMAYO PREMIUM ](https://zutomayo.net/){:target="_blank"}{:rel="noopener noreferrer"} 会員('21.2.14入会)  
+- [ZUTOMAYO PREMIUM](https://zutomayo.net/){:target="_blank"}{:rel="noopener noreferrer"} 会員('21.2.14入会)  
 
 
 - [田所あずさファンクラブ fuanZOO](https://www.fansnet.jp/azusatadokoro){:target="_blank"}{:rel="noopener noreferrer"} 会員('22.1.12入会 会員番号3000番台)  
