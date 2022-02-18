@@ -35,15 +35,17 @@ Ayumiです。イベント参戦関係のブログを書いてます。
   - 第47回〜はっしーのここが好き！  
   - 第51回〜『Lumière』のMV撮影、〇〇がやばかった？！裏側についてお話しします！  
 <br>
-- [田所あずさと天津向のどうせワレワレなんて…](https://podcast.1242.com/show/douse/){:target="_blank"}{:rel="noopener noreferrer"}
+- [田所あずさと天津向のどうせワレワレなんて・・・](https://podcast.1242.com/show/douse/){:target="_blank"}{:rel="noopener noreferrer"}(採用回数1回)  
+  - '22.2.16 ep232.壁に向かってメンチ切る(ころあず究極進化！)
 
 
 #### イベント参戦履歴＆予定('22.2.10更新)
 - '22.4.16 ずっと真夜中でいいのに。 ZUTOMAYO FACTORY Day1
+- '22.3.18 ずっと真夜中でいいのに。 ZUTOMAYO PLUGLESS @Billboard Live OSAKA
 - '22.2.9 ずっと真夜中でいいのに。 果羅火羅武〜TOUR(愛知Day2千秋楽)
 - '22.1.8 宝塚歌劇「今夜、ロマンス劇場で／FULL SWING!(月組公演)」
 - '21.12.8 朗読劇『「三国志」〜誓いの調べ〜』(昼の部・配信アーカイブ)
 - '21.11.20 ANIMAX MUSIX 2021 Part1(配信リアルタイム)
 - '21.10.24 大橋彩香バースデーイベント〜はっしーバースデー2021〜 昼の部(夜の部・配信アーカイブ)  
-- 
+
 <span style="font-size:5px">これ以前のイベント参戦履歴はいずれ更新します。。。</span>
