@@ -2,7 +2,7 @@
 layout: page
 title: About Me?
 permalink: /about/
-modified_date: "2022-2-14"
+modified_date: "2022-2-18"
 ---
 
 Ayumiです。イベント参戦関係のブログを書いてます。  
@@ -22,7 +22,7 @@ Ayumiです。イベント参戦関係のブログを書いてます。
 
 - [水樹奈々ファンクラブ S.C. NANA NET](https://fanclub.mizukinana.jp/){:target="_blank"}{:rel="noopener noreferrer"} 会員('15.11.1入会 会員番号64000番台)
 
-#### ラジオ・投稿関係('22.2.10更新)
+#### ラジオ・投稿関係('22.2.18更新)
 - [大橋彩香のAny Beat!](https://www.joqr.co.jp/qr/program/beat/){:target="_blank"}{:rel="noopener noreferrer"}(採用回数6回)
   - '21.11.7 カラオケではキーを変更するか(一問一答イントロどん)  
   - '21.11.21 家族旅行で行きたいところ(一問一答イントロどん)  
@@ -39,7 +39,7 @@ Ayumiです。イベント参戦関係のブログを書いてます。
   - '22.2.16 ep232.壁に向かってメンチ切る(ころあず究極進化！)
 
 
-#### イベント参戦履歴＆予定('22.2.10更新)
+#### イベント参戦履歴＆予定('22.2.18更新)
 - '22.4.16 ずっと真夜中でいいのに。 ZUTOMAYO FACTORY Day1
 - '22.3.18 ずっと真夜中でいいのに。 ZUTOMAYO PLUGLESS @Billboard Live OSAKA
 - '22.2.9 ずっと真夜中でいいのに。 果羅火羅武〜TOUR(愛知Day2千秋楽)
