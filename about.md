@@ -2,7 +2,7 @@
 layout: page
 title: About Me?
 permalink: /about/
-modified_date: "2022-2-18"
+modified_date: "2022-2-24"
 ---
 
 Ayumiです。イベント参戦関係のブログを書いてます。  
@@ -39,9 +39,9 @@ Ayumiです。イベント参戦関係のブログを書いてます。
   - '22.2.16 ep232.壁に向かってメンチ切る(ころあず究極進化！)
 
 
-#### イベント参戦履歴＆予定('22.2.18更新)
+#### イベント参戦履歴＆予定('22.2.24更新)
 - '22.4.16 ずっと真夜中でいいのに。 ZUTOMAYO FACTORY Day1
-- '22.3.18 ずっと真夜中でいいのに。 ZUTOMAYO PLUGLESS @Billboard Live OSAKA
+- ~~'22.3.18 ずっと真夜中でいいのに。 ZUTOMAYO PLUGLESS @Billboard Live OSAKA~~
 - '22.2.9 ずっと真夜中でいいのに。 果羅火羅武〜TOUR(愛知Day2千秋楽)
 - '22.1.8 宝塚歌劇「今夜、ロマンス劇場で／FULL SWING!(月組公演)」
 - '21.12.8 朗読劇『「三国志」〜誓いの調べ〜』(昼の部・配信アーカイブ)
