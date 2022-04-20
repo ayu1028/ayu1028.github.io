@@ -23,7 +23,7 @@ Ayumiです。イベント参戦関係のブログを書いてます。
 - [水樹奈々ファンクラブ S.C. NANA NET](https://fanclub.mizukinana.jp/){:target="_blank"}{:rel="noopener noreferrer"} 会員('15.11.1入会 会員番号64000番台)
 
 #### ラジオ・投稿関係('22.3.11更新)
-- [大橋彩香のAny Beat!](https://www.joqr.co.jp/qr/program/beat/){:target="_blank"}{:rel="noopener noreferrer"}(採用回数6回)
+- [大橋彩香のAny Beat!](https://www.joqr.co.jp/qr/program/beat/){:target="_blank"}{:rel="noopener noreferrer"}(採用回数7回)
   - '21.11.7 カラオケではキーを変更するか(一問一答イントロどん)  
   - '21.11.21 家族旅行で行きたいところ(一問一答イントロどん)  
   - '21.12.5 ウィンタースポーツ(一問一答イントロどん)  
