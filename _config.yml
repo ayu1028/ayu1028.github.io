@@ -7,6 +7,9 @@ description: > # this means to ignore newlines until "show_excerpts:"
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
+paginate: 5
+paginate_path: "/pages/:num/"
+
 permalink: /:year/:month/:day/:title:output_ext
 
 defaults:
@@ -70,4 +73,5 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-paginate
 # - jekyll-sitemap
