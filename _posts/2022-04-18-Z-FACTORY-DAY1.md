@@ -25,8 +25,12 @@ tags:
 <a id="anchor1"></a>
 ### ◯セットリスト
 それではいつものごとくセットリスト代わりにApple Musicのプレイリストを置いておきます。  
-いや〜、今回も素晴らしいセットリストでしたね。
-<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/playlist/zutomayo-factory-day1/pl.u-BNA6YjeF5jGEd8?l=en"></iframe>
+いや〜、今回も素晴らしいセットリストでしたね。  
+
+※4/22追記  
+なんと公式がプレイリストを作ってくれました！ありがたや…  
+ということで、公式のプレイリストにアップデートしておきます。(自分で作ったの不安だったので…)
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/playlist/zutomayo-factory-%E9%B7%B9%E3%81%AF%E9%A3%A2%E3%81%88%E3%81%A6%E3%82%82%E8%B8%8A%E3%82%8A%E5%BF%98%E3%82%8C%E3%81%9A-day1-momory-limit-1/pl.99f759010fa74149ab2c809cc2f55a9a"></iframe>
 
 <a id="anchor2"></a>
 ### ◯感想

@@ -2,7 +2,7 @@
 layout: page
 title: About Me?
 permalink: /about/
-modified_date: "2022-3-11"
+modified_date: "2022-4-22"
 ---
 
 Ayumiです。イベント参戦関係のブログを書いてます。  
@@ -36,15 +36,21 @@ Ayumiです。イベント参戦関係のブログを書いてます。
   - 第47回〜はっしーのここが好き！  
   - 第51回〜『Lumière』のMV撮影、〇〇がやばかった？！裏側についてお話しします！  
 <br>
-- [田所あずさと天津向のどうせワレワレなんて・・・](https://podcast.1242.com/show/douse/){:target="_blank"}{:rel="noopener noreferrer"}(採用回数1回)  
+- [田所あずさと天津向のどうせワレワレなんて･･･](https://podcast.1242.com/show/douse/){:target="_blank"}{:rel="noopener noreferrer"}(採用回数1回)  
   - '22.2.16 ep232.壁に向かってメンチ切る(ころあず究極進化！)
 
 
-#### イベント参戦履歴＆予定('22.3.11更新)
+#### イベント参戦履歴＆予定('22.4.22更新)
+- '22.12.4 ずっと真夜中でいいのに。GAME CENTER TOUR「テクノプア」@静岡市民会館大ホール
+- '22.10.26 ずっと真夜中でいいのに。GAME CENTER TOUR「テクノプア」@センチュリーホール
+- '22.10.25 ずっと真夜中でいいのに。GAME CENTER TOUR「テクノプア」@センチュリーホール
+- '22.10.1 ずっと真夜中でいいのに。GAME CENTER TOUR「テクノプア」@よこすか芸術劇場
+- '22.8.21 NANA MIZUKI LIVE HOME 2022 FINAL@日本ガイシホール
+- '22.7.31 大橋彩香1st Acoustic Live「Lumière et Étoile」@Billboard Live YOKOHAMA
 - '22.6.4 メ～テレアニソンLIVE @愛知県芸術劇場
-- '22.4.16 ずっと真夜中でいいのに。 ZUTOMAYO FACTORY Day1
+- '22.4.16 ずっと真夜中でいいのに。 ZUTOMAYO FACTORY Day1@さいたまスーパーアリーナ
 - ~~'22.3.18 ずっと真夜中でいいのに。 ZUTOMAYO PLUGLESS @Billboard Live OSAKA~~
-- '22.2.9 ずっと真夜中でいいのに。 果羅火羅武〜TOUR(愛知Day2千秋楽)
+- '22.2.9 ずっと真夜中でいいのに。 果羅火羅武〜TOUR FINAL@センチュリーホール
 - '22.1.8 宝塚歌劇「今夜、ロマンス劇場で／FULL SWING!(月組公演)」
 - '21.12.8 朗読劇『「三国志」〜誓いの調べ〜』(昼の部・配信アーカイブ)
 - '21.11.20 ANIMAX MUSIX 2021 Part1(配信リアルタイム)
