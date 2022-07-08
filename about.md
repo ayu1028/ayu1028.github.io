@@ -47,6 +47,7 @@ Ayumiです。イベント参戦関係のブログを書いてます。
 - '22.10.1 ずっと真夜中でいいのに。GAME CENTER TOUR「テクノプア」@よこすか芸術劇場
 - '22.8.21 NANA MIZUKI LIVE HOME 2022 FINAL@日本ガイシホール
 - '22.7.31 大橋彩香1st Acoustic Live「Lumière et Étoile」@Billboard Live YOKOHAMA
+- '22.7.23 OSAKA GIGANTIC MUSIC FESTIVAL 2022 ＠舞洲スポーツアイランド
 - '22.6.4 メ～テレアニソンLIVE @愛知県芸術劇場
 - '22.4.16 ずっと真夜中でいいのに。 ZUTOMAYO FACTORY Day1@さいたまスーパーアリーナ
 - ~~'22.3.18 ずっと真夜中でいいのに。 ZUTOMAYO PLUGLESS @Billboard Live OSAKA~~
