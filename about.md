@@ -2,13 +2,17 @@
 layout: page
 title: About Me?
 permalink: /about/
-modified_date: "2022-7-8"
+modified_date: "2022-7-26"
 ---
 
 Ayumiです。イベント参戦関係のブログを書いてます。  
 ツイッターもやってるので、どうぞ。
 
 - Twitter: [@ayu_nanet_sun](https://twitter.com/ayu_nanet_sun){:target="_blank"}{:rel="noopener noreferrer"}
+
+最近ずとまよにハマってまして、過去のライブで歌われた曲とかセトリのデータベースを個人的に作りました。よかったらみていただけると嬉しいです。
+
+- [ZUTOMAYO DATABASE](https://zutomayo-database.herokuapp.com/){:target="_blank"}{:rel="noopener noreferrer"}
 
 #### ステータス('22.2.14更新)
 - [大橋彩香ファンクラブ BIG BRIDGE FAMILY](https://ohashiayaka.com/){:target="_blank"}{:rel="noopener noreferrer"} 会員('21.9.19入会 会員番号6000番台)
