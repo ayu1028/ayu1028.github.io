@@ -2,7 +2,7 @@
 layout: page
 title: About Me?
 permalink: /about/
-modified_date: "2022-8−12"
+modified_date: 2022-8-12
 ---
 
 Ayumiです。イベント参戦関係のブログを書いてます。  
