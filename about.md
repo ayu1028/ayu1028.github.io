@@ -2,7 +2,7 @@
 layout: page
 title: About Me?
 permalink: /about/
-modified_date: "2022-7-26"
+modified_date: "2022-8−12"
 ---
 
 Ayumiです。イベント参戦関係のブログを書いてます。  
@@ -14,14 +14,11 @@ Ayumiです。イベント参戦関係のブログを書いてます。
 
 - [ZUTOMAYO DATABASE](https://zutomayo-database.herokuapp.com/){:target="_blank"}{:rel="noopener noreferrer"}
 
-#### ステータス('22.2.14更新)
+#### ステータス('22.8.12更新)
 - [大橋彩香ファンクラブ BIG BRIDGE FAMILY](https://ohashiayaka.com/){:target="_blank"}{:rel="noopener noreferrer"} 会員('21.9.19入会 会員番号6000番台)
 
 
 - [ZUTOMAYO PREMIUM](https://zutomayo.net/){:target="_blank"}{:rel="noopener noreferrer"} 会員('21.2.14入会)  
-
-
-- [田所あずさファンクラブ fuanZOO](https://www.fansnet.jp/azusatadokoro){:target="_blank"}{:rel="noopener noreferrer"} 会員('22.1.12入会 会員番号3000番台)  
 
 
 - [水樹奈々ファンクラブ S.C. NANA NET](https://fanclub.mizukinana.jp/){:target="_blank"}{:rel="noopener noreferrer"} 会員('15.11.1入会 会員番号64000番台)
