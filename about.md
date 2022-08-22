@@ -15,13 +15,11 @@ Ayumiです。イベント参戦関係のブログを書いてます。
 - [ZUTOMAYO DATABASE](https://zutomayo-database.herokuapp.com/){:target="_blank"}{:rel="noopener noreferrer"}
 
 #### ステータス('22.8.12更新)
-- [大橋彩香ファンクラブ BIG BRIDGE FAMILY](https://ohashiayaka.com/){:target="_blank"}{:rel="noopener noreferrer"} 会員('21.9.19入会 会員番号6000番台)
-
-
 - [ZUTOMAYO PREMIUM](https://zutomayo.net/){:target="_blank"}{:rel="noopener noreferrer"} 会員('21.2.14入会)  
 
+- [水樹奈々ファンクラブ S.C. NANA NET](https://fanclub.mizukinana.jp/){:target="_blank"}{:rel="noopener noreferrer"} 会員('15.11.1入会 会員番号64000番台)  
 
-- [水樹奈々ファンクラブ S.C. NANA NET](https://fanclub.mizukinana.jp/){:target="_blank"}{:rel="noopener noreferrer"} 会員('15.11.1入会 会員番号64000番台)
+- [大橋彩香ファンクラブ BIG BRIDGE FAMILY](https://ohashiayaka.com/){:target="_blank"}{:rel="noopener noreferrer"} 会員('21.9.19入会 会員番号6000番台)  
 
 #### ラジオ・投稿関係('22.3.11更新)
 - [大橋彩香のAny Beat!](https://www.joqr.co.jp/qr/program/beat/){:target="_blank"}{:rel="noopener noreferrer"}(採用回数7回)
