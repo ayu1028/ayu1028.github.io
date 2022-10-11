@@ -24,7 +24,7 @@ tags:
 ### ◯セットリスト
 いつものごとく、セットリスト代わりのプレイリストを置いておきます。  
 今回のセトリ、自分が聴きたいと思っていた曲をほとんど歌ってくれてめちゃくちゃ嬉しかったです。  
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/playlist/game-center-tour-%E3%83%86%E3%82%AF%E3%83%8E%E3%83%97%E3%82%A2-%E6%A8%AA%E9%A0%88%E8%B3%80%E8%8A%B8%E8%A1%93%E5%8A%87%E5%A0%B42%E6%97%A5%E7%9B%AE/pl.u-PDb40oVuo6M15Y"></iframe>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/playlist/game-center-tour-%E3%83%86%E3%82%AF%E3%83%8E%E3%83%97%E3%82%A2-%E6%A8%AA%E9%A0%88%E8%B3%80%E8%8A%B8%E8%A1%93%E5%8A%87%E5%A0%B42%E6%97%A5%E7%9B%AE/pl.u-Ymb09oqI1y7Wmd"></iframe>
 
 <a id="anchor2"></a>
 ### ◯感想
