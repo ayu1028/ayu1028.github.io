@@ -3,7 +3,7 @@ layout: post
 title: "【セトリ・感想】GAME CENTER TOUR「テクノプア」@名古屋センチュリーホール2Days"
 author: Ayumi
 modified_date: 
-comments: true
+comments: false
 img_src: "/technopoor/technopoor_nagoya.jpg"
 excerpt_separator: <!-- more -->
 category: "感想"
